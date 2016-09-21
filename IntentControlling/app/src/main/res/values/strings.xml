@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentControlling</string>
+    <string name="title_activity_listing_text">ListingText</string>
+</resources>
